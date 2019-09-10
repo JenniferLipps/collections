@@ -6,7 +6,7 @@ namespace Collections
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var strings = new List<string>();
         }
     }
 }
